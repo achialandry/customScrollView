@@ -10,11 +10,13 @@ import UIKit
 
 class MyScrollView: UIView {
 
-    var contentSize: CGSize
-    
-    var panGesture = UIPanGestureRecognizer()
-    
-    
+//    var contentSize: CGSize
+//
+//    var panGesture = UIPanGestureRecognizer()
+//
+//    func handlePan(gesture: UIPanGestureRecognizer) {
+//
+//    }
     
     
 
